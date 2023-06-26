@@ -44,7 +44,7 @@ export default function List() {
         }}
       >
         <Button
-          style={{ width: "150px" }}
+          style={{  paddingLeft:"6px",paddingRight:"6px" }}
           onClick={wordCard}
           variant="contained"
           color="secondary"
@@ -52,7 +52,7 @@ export default function List() {
           Word Cards
         </Button>
         <Button
-          style={{ width: "150px" }}
+          style={{ paddingLeft:"6px",paddingRight:"6px" }}
           onClick={AddWord}
           variant="contained"
           color="secondary"

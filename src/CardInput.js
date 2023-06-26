@@ -20,24 +20,24 @@ function CardInput({words, setWords}) {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
       <TextField value={input.eng} onChange={changeEng}
-        style={{ width: "500px", marginTop: "15px" }}
+        style={{   marginTop: "15px" }}
         id="outlined-basic"
         label="English"
         variant="outlined"
       />
       <TextField  value={input.tr} onChange={changeTr}
-        style={{ width: "500px", marginTop: "15px" }}
+        style={{   marginTop: "15px" }}
         id="outlined-basic"
         label="Turkish"
         variant="outlined"
       />
       <TextField value={input.example} onChange={changeExample}
-        style={{ width: "500px", marginTop: "15px" }}
+        style={{   marginTop: "15px" }}
         id="outlined-basic"
         label="Example"
         variant="outlined"
       />
-      <Button onClick={(e)=>{AddHandler(e)}}  style={{ width: "500px", marginTop: "15px" }} variant="contained">
+      <Button onClick={(e)=>{AddHandler(e)}}  style={{   marginTop: "15px" }} variant="contained">
         Add
       </Button>
     </div>

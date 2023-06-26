@@ -10,13 +10,13 @@ function CardFlip({word, row,increase,decrease,words}) {
     setIsFlipped(!isFlipped);
   };
   return (
-    <div style={{ width: 500,}}>
+    <div>
       <ReactCardFlip isFlipped={isFlipped} flipDirection="vertical">
         <div
           onClick={handleClick}
           style={{
-            height: 300,
-            width: 300,
+            height: 250,
+            width: 250,
             backgroundColor: "#F5B041",
             color: "#212F3D",
             display: "flex",
@@ -34,8 +34,8 @@ function CardFlip({word, row,increase,decrease,words}) {
         <div
           onClick={handleClick}
           style={{
-            height: 300,
-            width: 300,
+            height: 250,
+            width: 250,
             backgroundColor: "#212F3D",
             color: "#FFF",
             display: "flex",
@@ -52,8 +52,8 @@ function CardFlip({word, row,increase,decrease,words}) {
         </div>
       </ReactCardFlip>
       <div  style={{
-        
             display: "flex",
+            flexDirection:"row",
             justifyContent: " space-between",
             marginTop: "20px",
             paddingRight:"20px",
