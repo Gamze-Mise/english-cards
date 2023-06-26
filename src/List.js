@@ -9,7 +9,7 @@ export default function List() {
     { id: 2, eng: "go", tr: "gitmek", example: "go home" },
     { id: 3, eng: "come", tr: "gelmek", example: "come to mama" },
   ]);
-  const [process, setProcess] = useState(false);
+  const [process, setProcess] = useState(true);
   const wordCard = () => {
     setProcess(true);
   };
