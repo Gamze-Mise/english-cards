@@ -1,0 +1,22 @@
+.frontcard{
+    height: 300;
+    width: 300;
+    background-color: "#F5B041";
+    color: "#212F3D";
+    display: "flex";
+    align-items: "center";
+    justify-content: "center";
+    border-radius: "30px";
+  }
+  .backcard{
+    height: 300;
+    width: 300;
+    background-color: "#212F3D";
+    color: "#fff";
+    display: "flex";
+    align-items: "center";
+    justify-content: "center";
+    border-radius: "30px";
+  }
+  
+  
