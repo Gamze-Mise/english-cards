@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "eng": "abandon",
+        "tr": "terk etmek",
+        "example": "Don't abandon your dreams"
+    },
+    {
+        "id": 2,
+        "eng": "ability",
+        "tr": "yetenek",
+        "example": "She has great ability in music"
+    },
+    {
+        "id": 3,
+        "eng": "above",
+        "tr": "üstünde",
+        "example": "The bird flew above the clouds"
+    },
+    {
+        "id": 4,
+        "eng": "accept",
+        "tr": "kabul etmek",
+        "example": "I accept your invitation"
+    },
+    {
+        "id": 5,
+        "eng": "accident",
+        "tr": "kaza",
+        "example": "There was a car accident"
+    },
+    {
+        "id": 6,
+        "eng": "achieve",
+        "tr": "başarmak",
+        "example": "You can achieve your goals"
+    },
+    {
+        "id": 7,
+        "eng": "action",
+        "tr": "eylem",
+        "example": "Actions speak louder than words"
+    },
+    {
+        "id": 8,
+        "eng": "active",
+        "tr": "aktif",
+        "example": "She is very active in sports"
+    },
+    {
+        "id": 9,
+        "eng": "actual",
+        "tr": "gerçek",
+        "example": "What is the actual problem?"
+    },
+    {
+        "id": 10,
+        "eng": "address",
+        "tr": "adres",
+        "example": "What's your home address?"
+    },
+    {
+        "id": 11,
+        "eng": "adult",
+        "tr": "yetişkin",
+        "example": "This movie is for adults only"
+    },
+    {
+        "id": 12,
+        "eng": "advance",
+        "tr": "ilerlemek",
+        "example": "Technology continues to advance"
+    },
+    {
+        "id": 13,
+        "eng": "adventure",
+        "tr": "macera",
+        "example": "Life is a great adventure"
+    },
+    {
+        "id": 14,
+        "eng": "advice",
+        "tr": "tavsiye",
+        "example": "Can you give me some advice?"
+    },
+    {
+        "id": 15,
+        "eng": "affect",
+        "tr": "etkilemek",
+        "example": "Weather affects our mood"
+    },
+    {
+        "id": 16,
+        "eng": "afraid",
+        "tr": "korkmuş",
+        "example": "Don't be afraid of the dark"
+    },
+    {
+        "id": 17,
+        "eng": "after",
+        "tr": "sonra",
+        "example": "We'll meet after lunch"
+    },
+    {
+        "id": 18,
+        "eng": "again",
+        "tr": "tekrar",
+        "example": "Please say that again"
+    },
+    {
+        "id": 19,
+        "eng": "against",
+        "tr": "karşı",
+        "example": "I'm against violence"
+    },
+    {
+        "id": 20,
+        "eng": "agree",
+        "tr": "katılmak",
+        "example": "I agree with you"
+    },
+    {
+        "id": 21,
+        "eng": "air",
+        "tr": "hava",
+        "example": "The air is fresh here"
+    },
+    {
+        "id": 22,
+        "eng": "all",
+        "tr": "hepsi",
+        "example": "All students passed the exam"
+    },
+    {
+        "id": 23,
+        "eng": "allow",
+        "tr": "izin vermek",
+        "example": "Allow me to help you"
+    },
+    {
+        "id": 24,
+        "eng": "almost",
+        "tr": "neredeyse",
+        "example": "I almost forgot my keys"
+    },
+    {
+        "id": 25,
+        "eng": "alone",
+        "tr": "yalnız",
+        "example": "I prefer to work alone"
+    },
+    {
+        "id": 26,
+        "eng": "along",
+        "tr": "boyunca",
+        "example": "Walk along the river"
+    },
+    {
+        "id": 27,
+        "eng": "already",
+        "tr": "zaten",
+        "example": "I already finished my homework"
+    },
+    {
+        "id": 28,
+        "eng": "also",
+        "tr": "ayrıca",
+        "example": "I also like pizza"
+    },
+    {
+        "id": 29,
+        "eng": "although",
+        "tr": "rağmen",
+        "example": "Although it's raining, we'll go out"
+    },
+    {
+        "id": 30,
+        "eng": "always",
+        "tr": "her zaman",
+        "example": "She always arrives on time"
+    },
+    {
+        "id": 31,
+        "eng": "amazing",
+        "tr": "şaşırtıcı",
+        "example": "The view is amazing"
+    },
+    {
+        "id": 32,
+        "eng": "among",
+        "tr": "arasında",
+        "example": "He is among the best students"
+    },
+    {
+        "id": 33,
+        "eng": "amount",
+        "tr": "miktar",
+        "example": "What's the total amount?"
+    },
+    {
+        "id": 34,
+        "eng": "ancient",
+        "tr": "antik",
+        "example": "This is an ancient building"
+    },
+    {
+        "id": 35,
+        "eng": "animal",
+        "tr": "hayvan",
+        "example": "Dogs are loyal animals"
+    },
+    {
+        "id": 36,
+        "eng": "another",
+        "tr": "başka",
+        "example": "Can I have another cup of coffee?"
+    },
+    {
+        "id": 37,
+        "eng": "answer",
+        "tr": "cevap",
+        "example": "What's the answer to this question?"
+    },
+    {
+        "id": 38,
+        "eng": "any",
+        "tr": "herhangi",
+        "example": "Do you have any questions?"
+    },
+    {
+        "id": 39,
+        "eng": "anyone",
+        "tr": "herhangi biri",
+        "example": "Anyone can learn to code"
+    },
+    {
+        "id": 40,
+        "eng": "anything",
+        "tr": "herhangi bir şey",
+        "example": "Is there anything I can help with?"
+    },
+    {
+        "id": 41,
+        "eng": "appear",
+        "tr": "görünmek",
+        "example": "Stars appear at night"
+    },
+    {
+        "id": 42,
+        "eng": "area",
+        "tr": "alan",
+        "example": "This is a residential area"
+    },
+    {
+        "id": 43,
+        "eng": "arm",
+        "tr": "kol",
+        "example": "My arm hurts"
+    },
+    {
+        "id": 44,
+        "eng": "around",
+        "tr": "etrafında",
+        "example": "Look around you"
+    },
+    {
+        "id": 45,
+        "eng": "arrive",
+        "tr": "varmak",
+        "example": "When will you arrive?"
+    },
+    {
+        "id": 46,
+        "eng": "art",
+        "tr": "sanat",
+        "example": "She loves modern art"
+    },
+    {
+        "id": 47,
+        "eng": "ask",
+        "tr": "sormak",
+        "example": "May I ask you a question?"
+    },
+    {
+        "id": 48,
+        "eng": "attack",
+        "tr": "saldırı",
+        "example": "The enemy launched an attack"
+    },
+    {
+        "id": 49,
+        "eng": "attempt",
+        "tr": "deneme",
+        "example": "This is my first attempt"
+    },
+    {
+        "id": 50,
+        "eng": "attention",
+        "tr": "dikkat",
+        "example": "Pay attention to the teacher"
+    },
+    {
+        "id": 51,
+        "eng": "attitude",
+        "tr": "tavır",
+        "example": "Your attitude matters a lot"
+    },
+    {
+        "id": 52,
+        "eng": "attract",
+        "tr": "çekmek",
+        "example": "Magnets attract metal"
+    },
+    {
+        "id": 53,
+        "eng": "available",
+        "tr": "mevcut",
+        "example": "Is this seat available?"
+    },
+    {
+        "id": 54,
+        "eng": "avoid",
+        "tr": "kaçınmak",
+        "example": "Avoid eating too much sugar"
+    },
+    {
+        "id": 55,
+        "eng": "awake",
+        "tr": "uyanık",
+        "example": "I'm still awake"
+    },
+    {
+        "id": 56,
+        "eng": "away",
+        "tr": "uzakta",
+        "example": "The store is far away"
+    },
+    {
+        "id": 57,
+        "eng": "baby",
+        "tr": "bebek",
+        "example": "The baby is sleeping"
+    },
+    {
+        "id": 58,
+        "eng": "back",
+        "tr": "geri",
+        "example": "Come back soon"
+    },
+    {
+        "id": 59,
+        "eng": "bad",
+        "tr": "kötü",
+        "example": "This is a bad idea"
+    },
+    {
+        "id": 60,
+        "eng": "bag",
+        "tr": "çanta",
+        "example": "I need a new bag"
+    },
+    {
+        "id": 61,
+        "eng": "balance",
+        "tr": "denge",
+        "example": "Keep your balance"
+    },
+    {
+        "id": 62,
+        "eng": "ball",
+        "tr": "top",
+        "example": "Let's play ball"
+    },
+    {
+        "id": 63,
+        "eng": "bank",
+        "tr": "banka",
+        "example": "I need to go to the bank"
+    },
+    {
+        "id": 64,
+        "eng": "base",
+        "tr": "temel",
+        "example": "This is the base of the building"
+    },
+    {
+        "id": 65,
+        "eng": "basic",
+        "tr": "temel",
+        "example": "These are basic rules"
+    },
+    {
+        "id": 66,
+        "eng": "battle",
+        "tr": "savaş",
+        "example": "The battle was fierce"
+    },
+    {
+        "id": 67,
+        "eng": "beach",
+        "tr": "plaj",
+        "example": "Let's go to the beach"
+    },
+    {
+        "id": 68,
+        "eng": "bear",
+        "tr": "ayı",
+        "example": "I saw a bear in the forest"
+    },
+    {
+        "id": 69,
+        "eng": "beat",
+        "tr": "dövmek",
+        "example": "My heart beats fast"
+    },
+    {
+        "id": 70,
+        "eng": "beautiful",
+        "tr": "güzel",
+        "example": "She is beautiful"
+    },
+    {
+        "id": 71,
+        "eng": "because",
+        "tr": "çünkü",
+        "example": "I'm happy because you're here"
+    },
+    {
+        "id": 72,
+        "eng": "become",
+        "tr": "olmak",
+        "example": "I want to become a doctor"
+    },
+    {
+        "id": 73,
+        "eng": "bed",
+        "tr": "yatak",
+        "example": "I need to make my bed"
+    },
+    {
+        "id": 74,
+        "eng": "before",
+        "tr": "önce",
+        "example": "Wash your hands before eating"
+    },
+    {
+        "id": 75,
+        "eng": "begin",
+        "tr": "başlamak",
+        "example": "Let's begin the lesson"
+    },
+    {
+        "id": 76,
+        "eng": "behind",
+        "tr": "arkasında",
+        "example": "The cat is behind the door"
+    },
+    {
+        "id": 77,
+        "eng": "believe",
+        "tr": "inanmak",
+        "example": "I believe in you"
+    },
+    {
+        "id": 78,
+        "eng": "below",
+        "tr": "altında",
+        "example": "The temperature is below zero"
+    },
+    {
+        "id": 79,
+        "eng": "best",
+        "tr": "en iyi",
+        "example": "This is the best solution"
+    },
+    {
+        "id": 80,
+        "eng": "better",
+        "tr": "daha iyi",
+        "example": "This is better than that"
+    },
+    {
+        "id": 81,
+        "eng": "between",
+        "tr": "arasında",
+        "example": "The book is between the two chairs"
+    },
+    {
+        "id": 82,
+        "eng": "big",
+        "tr": "büyük",
+        "example": "This is a big house"
+    },
+    {
+        "id": 83,
+        "eng": "bird",
+        "tr": "kuş",
+        "example": "The bird is singing"
+    },
+    {
+        "id": 84,
+        "eng": "bit",
+        "tr": "biraz",
+        "example": "I'm a bit tired"
+    },
+    {
+        "id": 85,
+        "eng": "black",
+        "tr": "siyah",
+        "example": "I like black coffee"
+    },
+    {
+        "id": 86,
+        "eng": "blood",
+        "tr": "kan",
+        "example": "Blood is red"
+    },
+    {
+        "id": 87,
+        "eng": "blue",
+        "tr": "mavi",
+        "example": "The sky is blue"
+    },
+    {
+        "id": 88,
+        "eng": "boat",
+        "tr": "tekne",
+        "example": "We sailed in a boat"
+    },
+    {
+        "id": 89,
+        "eng": "body",
+        "tr": "vücut",
+        "example": "Take care of your body"
+    },
+    {
+        "id": 90,
+        "eng": "book",
+        "tr": "kitap",
+        "example": "I'm reading a good book"
+    },
+    {
+        "id": 91,
+        "eng": "born",
+        "tr": "doğmak",
+        "example": "I was born in Istanbul"
+    },
+    {
+        "id": 92,
+        "eng": "both",
+        "tr": "her ikisi",
+        "example": "Both answers are correct"
+    },
+    {
+        "id": 93,
+        "eng": "box",
+        "tr": "kutu",
+        "example": "Put it in the box"
+    },
+    {
+        "id": 94,
+        "eng": "boy",
+        "tr": "erkek çocuk",
+        "example": "The boy is playing football"
+    },
+    {
+        "id": 95,
+        "eng": "break",
+        "tr": "kırmak",
+        "example": "Don't break the glass"
+    },
+    {
+        "id": 96,
+        "eng": "bring",
+        "tr": "getirmek",
+        "example": "Bring me some water"
+    },
+    {
+        "id": 97,
+        "eng": "brother",
+        "tr": "erkek kardeş",
+        "example": "My brother is tall"
+    },
+    {
+        "id": 98,
+        "eng": "brown",
+        "tr": "kahverengi",
+        "example": "I have brown eyes"
+    },
+    {
+        "id": 99,
+        "eng": "build",
+        "tr": "inşa etmek",
+        "example": "They will build a new school"
+    },
+    {
+        "id": 100,
+        "eng": "business",
+        "tr": "iş",
+        "example": "This is a good business idea"
+    },
+    {
+        "id": 101,
+        "eng": "busy",
+        "tr": "meşgul",
+        "example": "I'm very busy today"
+    },
+    {
+        "id": 102,
+        "eng": "but",
+        "tr": "ama",
+        "example": "I want to go, but I can't"
+    },
+    {
+        "id": 103,
+        "eng": "buy",
+        "tr": "satın almak",
+        "example": "I want to buy a new car"
+    },
+    {
+        "id": 104,
+        "eng": "call",
+        "tr": "aramak",
+        "example": "Call me later"
+    },
+    {
+        "id": 105,
+        "eng": "came",
+        "tr": "geldi",
+        "example": "He came to visit us"
+    },
+    {
+        "id": 106,
+        "eng": "can",
+        "tr": "yapabilmek",
+        "example": "I can speak English"
+    },
+    {
+        "id": 107,
+        "eng": "car",
+        "tr": "araba",
+        "example": "My car is red"
+    },
+    {
+        "id": 108,
+        "eng": "card",
+        "tr": "kart",
+        "example": "Show me your ID card"
+    },
+    {
+        "id": 109,
+        "eng": "care",
+        "tr": "bakım",
+        "example": "Take care of yourself"
+    },
+    {
+        "id": 110,
+        "eng": "carry",
+        "tr": "taşımak",
+        "example": "Can you carry this bag?"
+    },
+    {
+        "id": 111,
+        "eng": "case",
+        "tr": "durum",
+        "example": "In this case, we should wait"
+    },
+    {
+        "id": 112,
+        "eng": "cat",
+        "tr": "kedi",
+        "example": "The cat is sleeping"
+    },
+    {
+        "id": 113,
+        "eng": "catch",
+        "tr": "yakalamak",
+        "example": "Catch the ball"
+    },
+    {
+        "id": 114,
+        "eng": "cause",
+        "tr": "neden",
+        "example": "What's the cause of this problem?"
+    },
+    {
+        "id": 115,
+        "eng": "cell",
+        "tr": "hücre",
+        "example": "Every cell in our body is important"
+    },
+    {
+        "id": 116,
+        "eng": "center",
+        "tr": "merkez",
+        "example": "The hospital is in the center"
+    },
+    {
+        "id": 117,
+        "eng": "century",
+        "tr": "yüzyıl",
+        "example": "We live in the 21st century"
+    },
+    {
+        "id": 118,
+        "eng": "certain",
+        "tr": "kesin",
+        "example": "I'm certain about this"
+    },
+    {
+        "id": 119,
+        "eng": "chair",
+        "tr": "sandalye",
+        "example": "Please sit on the chair"
+    },
+    {
+        "id": 120,
+        "eng": "chance",
+        "tr": "şans",
+        "example": "Give me a chance"
+    },
+    {
+        "id": 121,
+        "eng": "change",
+        "tr": "değiştirmek",
+        "example": "I need to change my clothes"
+    },
+    {
+        "id": 122,
+        "eng": "character",
+        "tr": "karakter",
+        "example": "He has a strong character"
+    },
+    {
+        "id": 123,
+        "eng": "charge",
+        "tr": "şarj etmek",
+        "example": "I need to charge my phone"
+    },
+    {
+        "id": 124,
+        "eng": "check",
+        "tr": "kontrol etmek",
+        "example": "Check your answers"
+    },
+    {
+        "id": 125,
+        "eng": "child",
+        "tr": "çocuk",
+        "example": "Every child deserves love"
+    },
+    {
+        "id": 126,
+        "eng": "choose",
+        "tr": "seçmek",
+        "example": "Choose your favorite color"
+    },
+    {
+        "id": 127,
+        "eng": "church",
+        "tr": "kilise",
+        "example": "The church is very old"
+    },
+    {
+        "id": 128,
+        "eng": "city",
+        "tr": "şehir",
+        "example": "Istanbul is a big city"
+    },
+    {
+        "id": 129,
+        "eng": "class",
+        "tr": "sınıf",
+        "example": "Our class has 30 students"
+    },
+    {
+        "id": 130,
+        "eng": "clean",
+        "tr": "temiz",
+        "example": "Keep your room clean"
+    },
+    {
+        "id": 131,
+        "eng": "clear",
+        "tr": "açık",
+        "example": "The water is clear"
+    },
+    {
+        "id": 132,
+        "eng": "close",
+        "tr": "yakın",
+        "example": "The store is close to my house"
+    },
+    {
+        "id": 133,
+        "eng": "clothes",
+        "tr": "giysi",
+        "example": "I need new clothes"
+    },
+    {
+        "id": 134,
+        "eng": "cloud",
+        "tr": "bulut",
+        "example": "The cloud is white"
+    },
+    {
+        "id": 135,
+        "eng": "coast",
+        "tr": "sahil",
+        "example": "We walked along the coast"
+    },
+    {
+        "id": 136,
+        "eng": "cold",
+        "tr": "soğuk",
+        "example": "It's cold outside"
+    },
+    {
+        "id": 137,
+        "eng": "color",
+        "tr": "renk",
+        "example": "What's your favorite color?"
+    },
+    {
+        "id": 138,
+        "eng": "come",
+        "tr": "gelmek",
+        "example": "Come here please"
+    },
+    {
+        "id": 139,
+        "eng": "common",
+        "tr": "yaygın",
+        "example": "This is a common problem"
+    },
+    {
+        "id": 140,
+        "eng": "company",
+        "tr": "şirket",
+        "example": "I work for a big company"
+    },
+    {
+        "id": 141,
+        "eng": "compare",
+        "tr": "karşılaştırmak",
+        "example": "Compare these two options"
+    },
+    {
+        "id": 142,
+        "eng": "complete",
+        "tr": "tam",
+        "example": "This is a complete answer"
+    },
+    {
+        "id": 143,
+        "eng": "computer",
+        "tr": "bilgisayar",
+        "example": "I use my computer every day"
+    },
+    {
+        "id": 144,
+        "eng": "condition",
+        "tr": "durum",
+        "example": "What's your condition?"
+    },
+    {
+        "id": 145,
+        "eng": "consider",
+        "tr": "düşünmek",
+        "example": "Consider all possibilities"
+    },
+    {
+        "id": 146,
+        "eng": "continue",
+        "tr": "devam etmek",
+        "example": "Please continue your work"
+    },
+    {
+        "id": 147,
+        "eng": "control",
+        "tr": "kontrol",
+        "example": "You have control over your life"
+    },
+    {
+        "id": 148,
+        "eng": "cook",
+        "tr": "pişirmek",
+        "example": "I love to cook"
+    },
+    {
+        "id": 149,
+        "eng": "cool",
+        "tr": "serin",
+        "example": "The weather is cool today"
+    },
+    {
+        "id": 150,
+        "eng": "copy",
+        "tr": "kopya",
+        "example": "Make a copy of this document"
+    },
+    {
+        "id": 151,
+        "eng": "corner",
+        "tr": "köşe",
+        "example": "Turn left at the corner"
+    },
+    {
+        "id": 152,
+        "eng": "cost",
+        "tr": "maliyet",
+        "example": "What's the cost of this?"
+    },
+    {
+        "id": 153,
+        "eng": "could",
+        "tr": "yapabilirdi",
+        "example": "I could help you"
+    },
+    {
+        "id": 154,
+        "eng": "count",
+        "tr": "saymak",
+        "example": "Count from one to ten"
+    },
+    {
+        "id": 155,
+        "eng": "country",
+        "tr": "ülke",
+        "example": "Turkey is a beautiful country"
+    },
+    {
+        "id": 156,
+        "eng": "course",
+        "tr": "kurs",
+        "example": "I'm taking an English course"
+    },
+    {
+        "id": 157,
+        "eng": "cover",
+        "tr": "kapak",
+        "example": "The book has a red cover"
+    },
+    {
+        "id": 158,
+        "eng": "create",
+        "tr": "yaratmak",
+        "example": "Artists create beautiful things"
+    },
+    {
+        "id": 159,
+        "eng": "cross",
+        "tr": "geçmek",
+        "example": "Cross the street carefully"
+    },
+    {
+        "id": 160,
+        "eng": "crowd",
+        "tr": "kalabalık",
+        "example": "There's a big crowd here"
+    },
+    {
+        "id": 161,
+        "eng": "cry",
+        "tr": "ağlamak",
+        "example": "Don't cry, everything will be okay"
+    },
+    {
+        "id": 162,
+        "eng": "culture",
+        "tr": "kültür",
+        "example": "Turkish culture is rich"
+    },
+    {
+        "id": 163,
+        "eng": "cup",
+        "tr": "fincan",
+        "example": "I need a cup of coffee"
+    },
+    {
+        "id": 164,
+        "eng": "cut",
+        "tr": "kesmek",
+        "example": "Cut the paper with scissors"
+    },
+    {
+        "id": 165,
+        "eng": "dance",
+        "tr": "dans etmek",
+        "example": "Let's dance together"
+    },
+    {
+        "id": 166,
+        "eng": "dark",
+        "tr": "karanlık",
+        "example": "It's dark outside"
+    },
+    {
+        "id": 167,
+        "eng": "data",
+        "tr": "veri",
+        "example": "We need more data"
+    },
+    {
+        "id": 168,
+        "eng": "day",
+        "tr": "gün",
+        "example": "Have a nice day"
+    },
+    {
+        "id": 169,
+        "eng": "dead",
+        "tr": "ölü",
+        "example": "The plant is dead"
+    },
+    {
+        "id": 170,
+        "eng": "deal",
+        "tr": "anlaşma",
+        "example": "It's a good deal"
+    },
+    {
+        "id": 171,
+        "eng": "dear",
+        "tr": "sevgili",
+        "example": "Dear friend, how are you?"
+    },
+    {
+        "id": 172,
+        "eng": "death",
+        "tr": "ölüm",
+        "example": "Death is a part of life"
+    },
+    {
+        "id": 173,
+        "eng": "decide",
+        "tr": "karar vermek",
+        "example": "You must decide now"
+    },
+    {
+        "id": 174,
+        "eng": "deep",
+        "tr": "derin",
+        "example": "The ocean is very deep"
+    },
+    {
+        "id": 175,
+        "eng": "degree",
+        "tr": "derece",
+        "example": "What's your degree in?"
+    },
+    {
+        "id": 176,
+        "eng": "deliver",
+        "tr": "teslim etmek",
+        "example": "They will deliver the package"
+    },
+    {
+        "id": 177,
+        "eng": "demand",
+        "tr": "talep",
+        "example": "There's high demand for this product"
+    },
+    {
+        "id": 178,
+        "eng": "design",
+        "tr": "tasarım",
+        "example": "I like this design"
+    },
+    {
+        "id": 179,
+        "eng": "desire",
+        "tr": "arzu",
+        "example": "I have a strong desire to learn"
+    },
+    {
+        "id": 180,
+        "eng": "desk",
+        "tr": "masa",
+        "example": "My desk is messy"
+    },
+    {
+        "id": 181,
+        "eng": "develop",
+        "tr": "geliştirmek",
+        "example": "We need to develop new skills"
+    },
+    {
+        "id": 182,
+        "eng": "die",
+        "tr": "ölmek",
+        "example": "All living things die"
+    },
+    {
+        "id": 183,
+        "eng": "different",
+        "tr": "farklı",
+        "example": "We have different opinions"
+    },
+    {
+        "id": 184,
+        "eng": "difficult",
+        "tr": "zor",
+        "example": "This question is difficult"
+    },
+    {
+        "id": 185,
+        "eng": "dinner",
+        "tr": "akşam yemeği",
+        "example": "What's for dinner?"
+    },
+    {
+        "id": 186,
+        "eng": "direction",
+        "tr": "yön",
+        "example": "Which direction should I go?"
+    },
+    {
+        "id": 187,
+        "eng": "discover",
+        "tr": "keşfetmek",
+        "example": "Scientists discover new things"
+    },
+    {
+        "id": 188,
+        "eng": "discuss",
+        "tr": "tartışmak",
+        "example": "Let's discuss this problem"
+    },
+    {
+        "id": 189,
+        "eng": "disease",
+        "tr": "hastalık",
+        "example": "This disease is curable"
+    },
+    {
+        "id": 190,
+        "eng": "distance",
+        "tr": "mesafe",
+        "example": "What's the distance to the city?"
+    },
+    {
+        "id": 191,
+        "eng": "divide",
+        "tr": "bölmek",
+        "example": "Divide the cake into pieces"
+    },
+    {
+        "id": 192,
+        "eng": "doctor",
+        "tr": "doktor",
+        "example": "I need to see a doctor"
+    },
+    {
+        "id": 193,
+        "eng": "dog",
+        "tr": "köpek",
+        "example": "My dog is very friendly"
+    },
+    {
+        "id": 194,
+        "eng": "door",
+        "tr": "kapı",
+        "example": "Close the door please"
+    },
+    {
+        "id": 195,
+        "eng": "down",
+        "tr": "aşağı",
+        "example": "Go down the stairs"
+    },
+    {
+        "id": 196,
+        "eng": "draw",
+        "tr": "çizmek",
+        "example": "I can draw a picture"
+    },
+    {
+        "id": 197,
+        "eng": "dream",
+        "tr": "rüya",
+        "example": "I had a strange dream"
+    },
+    {
+        "id": 198,
+        "eng": "drive",
+        "tr": "sürmek",
+        "example": "I can drive a car"
+    },
+    {
+        "id": 199,
+        "eng": "drop",
+        "tr": "düşürmek",
+        "example": "Don't drop the glass"
+    },
+    {
+        "id": 200,
+        "eng": "dry",
+        "tr": "kuru",
+        "example": "The clothes are dry now"
+    }
+]

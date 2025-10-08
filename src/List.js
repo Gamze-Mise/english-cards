@@ -1,14 +1,11 @@
 import React, { useState } from "react";
-import { Button, setRef } from "@mui/material";
+import { Button } from "@mui/material";
 import CardInput from "./CardInput";
 import CardFlip from "./CardFlip";
+import wordsData from "./data/words.json";
 
 export default function List() {
-  const [words, setWords] = useState([
-    { id: 1, eng: "bring", tr: "getirmek", example: "bring it" },
-    { id: 2, eng: "go", tr: "gitmek", example: "go home" },
-    { id: 3, eng: "come", tr: "gelmek", example: "come to mama" },
-  ]);
+  const [words, setWords] = useState(wordsData);
   const [process, setProcess] = useState(true);
   const wordCard = () => {
     setProcess(true);
@@ -16,68 +13,108 @@ export default function List() {
   const AddWord = () => {
     setProcess(false);
   };
+
+  const handleWordAdded = (newWordId) => {
+    setRow(newWordId);
+  };
   const [row, setRow] = useState(1);
   const Increase = () => {
-    if(row==words.length){
-        setRow(1)
-    }else{
-       setRow((prevState) => prevState + 1); 
+    if (row === words.length) {
+      setRow(1)
+    } else {
+      setRow((prevState) => prevState + 1);
     }
-    
+
   };
   const Decrease = () => {
-    if(row==1){
-        setRow(words.length)
-    }else{
-        setRow((prevState) => prevState - 1);
+    if (row === 1) {
+      setRow(words.length)
+    } else {
+      setRow((prevState) => prevState - 1);
     }
-    
+
   };
   return (
-    <div>
+    <div style={{ minHeight: "500px" }}>
       <div
         style={{
           display: "flex",
-          justifyContent: "space-around",
-          marginBottom: "30px",
+          justifyContent: "center",
+          gap: "20px",
+          marginBottom: "15px",
           marginTop: "15px",
         }}
       >
         <Button
-          style={{  paddingLeft:"6px",paddingRight:"6px" }}
+          style={{
+            paddingLeft: "15px",
+            paddingRight: "15px",
+            paddingTop: "8px",
+            paddingBottom: "8px",
+            borderRadius: "15px",
+            fontSize: "0.9rem",
+            fontWeight: "600",
+            background: process ? "rgb(156, 39, 176)" : "rgb(156, 39, 176)",
+            boxShadow: process ? "0 4px 12px rgba(156, 39, 176, 0.4)" : "0 4px 12px rgba(156, 39, 176, 0.4)",
+            border: process ? "2px solid rgb(142, 36, 170)" : "2px solid rgb(142, 36, 170)",
+            color: "white",
+            cursor: "pointer",
+            transition: "all 0.3s ease"
+          }}
           onClick={wordCard}
           variant="contained"
-          color="secondary"
         >
-          Word Cards
+          📚 Word Cards
         </Button>
         <Button
-          style={{ paddingLeft:"6px",paddingRight:"6px" }}
+          style={{
+            paddingLeft: "15px",
+            paddingRight: "15px",
+            paddingTop: "8px",
+            paddingBottom: "8px",
+            borderRadius: "15px",
+            fontSize: "0.9rem",
+            fontWeight: "600",
+            background: !process ? "rgb(156, 39, 176)" : "rgb(156, 39, 176)",
+            boxShadow: !process ? "0 4px 12px rgba(156, 39, 176, 0.4)" : "0 4px 12px rgba(156, 39, 176, 0.4)",
+            border: !process ? "2px solid rgb(142, 36, 170)" : "2px solid rgb(142, 36, 170)",
+            color: "white",
+            cursor: "pointer",
+            transition: "all 0.3s ease"
+          }}
           onClick={AddWord}
           variant="contained"
-          color="secondary"
         >
           Add a Word
         </Button>
       </div>
-      {process ? (
-        words.map((word) => {
-          if (word.id === row) {
-            return (
-              <CardFlip
-                key={word.id}
-                word={word}
-                increase={Increase}
-                decrease={Decrease}
-                row={row}
-                words={words}
-              />
-            );
-          }
-        })
-      ) : (
-        <CardInput words={words} setWords={setWords}/>
-      )}
+
+      <div style={{
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center"
+      }}>
+        {process ? (
+          words.map((word) => {
+            if (word.id === row) {
+              return (
+                <CardFlip
+                  key={word.id}
+                  word={word}
+                  increase={Increase}
+                  decrease={Decrease}
+                  row={row}
+                  words={words}
+                  setRow={setRow}
+                />
+              );
+            }
+            return null;
+          })
+        ) : (
+          <CardInput words={words} setWords={setWords} onWordAdded={handleWordAdded} />
+        )}
+      </div>
     </div>
   );
 }
